@@ -1,6 +1,6 @@
 
 
-function redirectToDestinagetion() {
+function redirectToDestination() {
     var redirectUrl = getUrlVars()["url"]
     const httpsPrefix = "https://"
     const httpPrefix = "http://"
